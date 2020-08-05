@@ -15,6 +15,8 @@ Equipado com sensores para coletar informações do bebê, o dispositivo consegu
 <img src="Images/login.jpeg" width="200">
 
  - Tela Principal
+ 
+ Nesta tela o usuário poderá escolher qual informação deseja visualizar, optando entre visualização individual e em conjunto na tela de status.
 
 <img src="Images/principal.jpeg" width="200">
 
