@@ -12,13 +12,19 @@ Equipado com sensores para coletar informações do bebê, o dispositivo consegu
 
 ### Tela de Login
 
-<img src="Images/login.jpeg" width="300">
-
-### Tela de Cadastro
+<img src="Images/login.jpeg" width="200">
 
 ### Tela Principal
 
+<img src="Images/principal.jpeg" width="200">
+
 ### Telas de visualização individual 
 
+<img src="Images/bpm.jpeg" width="200">,
+<img src="Images/temp.jpeg" width="200">,
+<img src="Images/posicao.jpeg" width="200">
+
 ### Tela de Status
+
+<img src="Images/status.jpeg" width="200">
 
