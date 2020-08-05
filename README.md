@@ -12,7 +12,7 @@ Equipado com sensores para coletar informações do bebê, o dispositivo consegu
 
 ### Tela de Login
 
-<img src="Image/login.jpeg" width="600">
+<img src="Image/login.jpeg" width="300">
 
 ### Tela de Cadastro
 
