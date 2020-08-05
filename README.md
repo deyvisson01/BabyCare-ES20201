@@ -12,11 +12,13 @@ Equipado com sensores para coletar informações do bebê, o dispositivo consegu
 
 ### Tela de Login
 
-## Tela de Cadastro
+![telas login](Imges/login.jpeg)
 
-## Tela Principal
+### Tela de Cadastro
 
-## Telas de visualização individual 
+### Tela Principal
 
-## Tela de Status
+### Telas de visualização individual 
+
+### Tela de Status
 
